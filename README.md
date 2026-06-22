@@ -40,7 +40,7 @@ Lead Developer on a FiveM roleplay server. Handling server architecture, custom 
 ### GD Demon Timeline
 Interactive 3D timeline of my Geometry Dash demon completions (11 demons).  
 **Live:** [gd-demon-timeline.pages.dev](https://gd-demon-timeline.pages.dev/)  
-**Stack:** React • Vite • Three.js • Zustand
+**Stack:** React • Vite • Three.js • Supabase
 
 ---
 
