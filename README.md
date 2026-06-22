@@ -35,7 +35,7 @@ JetBrains Student License • GitHub Student Pack
 
 ### Praesidium Roleplay (FiveM Server)
 Lead Developer on a FiveM roleplay server. Handling server architecture, custom scripting, and database design.  
-**Stack:** FiveM/Lua, PHP/Laravel, MySQL
+**Stack:** FiveM/Lua, Q-box Framework
 
 ### GD Demon Timeline
 Interactive 3D timeline of my Geometry Dash demon completions (11 demons).  
