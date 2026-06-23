@@ -48,4 +48,4 @@ Interactive 3D timeline of my Geometry Dash demon completions (11 demons).
 
 - **Email:** 344385@student.mboutrecht.nl
 - **GitHub:** [@Cain-Brouwer](https://github.com/Cain-Brouwer)
-- **Location:** Leimuiden, South Holland, NL
+- **Location:** Utrecht, South Holland, NL
