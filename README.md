@@ -1,4 +1,4 @@
-# Hey, I'm Cain
+# Hey, I'm Cain 👋
 
 **MBO Software Developer @ MBO Utrecht** | **Lead Developer @ Praesidium Roleplay** | **Creator of GD Demon Timeline**
 
@@ -31,10 +31,10 @@ JetBrains Student License • GitHub Student Pack
 
 ---
 
-## Projects
+## 🎮 Projects
 
 ### Praesidium Roleplay (FiveM Server)
-Lead Developer on a FiveM roleplay server. Handling server architecture, custom scripting, and database design.  
+Lead Developer & DevOps Lead on a FiveM roleplay server. Handling server architecture, custom scripting, database design, and infrastructure management.  
 **Stack:** FiveM/Lua, Q-box Framework
 
 ### GD Demon Timeline
@@ -44,8 +44,8 @@ Interactive 3D timeline of my Geometry Dash demon completions (11 demons).
 
 ---
 
-## Contact
+## 📫 Contact
 
 - **Email:** 344385@student.mboutrecht.nl
 - **GitHub:** [@Cain-Brouwer](https://github.com/Cain-Brouwer)
-- **Location:** Utrecht, South Holland, NL
+- **Location:** Leimuiden, South Holland, NL
